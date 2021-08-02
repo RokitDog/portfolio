@@ -15,6 +15,7 @@ import { Switch } from '@material-ui/core';
 import { useEffect, useState } from 'react';
 import EmailIcon from '@material-ui/icons/Email';
 
+
 export default function Home() {
   const [theme,setTheme] = useState('dark-theme');
   const [checked,setChecked] = useState(false);
