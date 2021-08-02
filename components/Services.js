@@ -1,6 +1,6 @@
 import React from 'react'
 import { ServiceCard } from './ServiceCard'
-import { Title } from './title'
+import { Title } from './Title'
 import  design  from '../public/design.svg'
 import  intelligence  from '../public/intelligence.svg'
 import  gamedev  from '../public/game-dev.svg'

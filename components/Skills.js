@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { ProgressBar } from './ProgressBar'
-import { Title } from './title'
+import { Title } from './Title'
 
 export const Skills = () => {
     return (

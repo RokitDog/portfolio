@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Background } from './Background'
-import { Title } from './title'
+import { Title } from './Title'
 import PortfolioData from './PortfolioData'
 import { Menu } from './Menu'
 

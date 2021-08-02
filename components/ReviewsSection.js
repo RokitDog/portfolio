@@ -1,6 +1,6 @@
 import React from 'react'
 import { ReviewItem } from './ReviewItem'
-import { Title } from './title'
+import { Title } from './Title'
 
 
 export const ReviewsSection = () => {

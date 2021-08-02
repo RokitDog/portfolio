@@ -1,7 +1,7 @@
 import React from 'react'
 import { Background } from './Background'
 import { PrimaryButton } from './PrimaryButton'
-import { Title } from './title'
+import { Title } from './Title'
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import LocationOnIcon from '@material-ui/icons/LocationOn';

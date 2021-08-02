@@ -3,7 +3,7 @@ import styles from '../styles/About.module.css'
 import { Background } from './Background';
 import { ImageSection } from './ImageSection';
 import { Services } from './Services';
-import { Title } from './title';
+import { Title } from './Title';
 
 export const About = () => {
     return (

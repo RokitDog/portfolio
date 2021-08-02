@@ -3,7 +3,7 @@ import styles from '../styles/Resume.module.css'
 import { Background } from './Background'
 import { Skills } from './Skills'
 import { SmallTitle } from './SmallTitle'
-import { Title } from './title'
+import { Title } from './Title'
 import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';
 import SchoolIcon from '@material-ui/icons/School';
 import { ResumeItem } from './ResumeItem'
